@@ -1,0 +1,4 @@
+https://www.youtube.com/watch?v=6o1HDwmmcMs
+
+//a videó elkészülte után az adminorders.php-hez még hozzáadásra került a kereső, és az étlaphoz a meglévő pizzák,
+és azok összetevőinek szerkesztése.
